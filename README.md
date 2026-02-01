@@ -349,3 +349,9 @@ After development, you should add test for your modification and make all tests 
 Feel free to [contact me](mailto:leecade@163.com) or [create an issue](https://github.com/leecade/react-native-swiper/issues/new)
 
 > Inspired by [nolimits4web/Swiper](https://github.com/nolimits4web/swiper/) & Design material from [Dribbble](https://dribbble.com/) & made with ♥.
+
+---
+
+## 💖 Sponsors
+
+- [ZMTO](https://www.zmto.com) - Cloud Infrastructure & Hosting
